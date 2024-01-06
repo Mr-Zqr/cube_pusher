@@ -1,0 +1,8 @@
+Added Component: Designator=JP?(HDR1X4)
+Add component (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://lmdzstyle.taobao.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "黎明电子style"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJP?_1 Pin=JP?-1
+Added Net: Name=NetJP?_1
+Added Member To Class: ClassName=树莓派用 Member=Component JP? HDR-1X4
+Added Room: Name=树莓派用

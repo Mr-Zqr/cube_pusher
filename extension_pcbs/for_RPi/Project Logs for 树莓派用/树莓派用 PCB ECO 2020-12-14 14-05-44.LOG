@@ -1,0 +1,39 @@
+Added Component: Designator=MPU6050-1(XH2.54-WI-8P)
+Add component (AddParameter): Name = "BOM名称"; Value = "8P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "优秀评价可免费更新"; Value = "联系淘宝ID：黄晶宝石，获取更新版封装库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "卖家免费技术支持，联系售后"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=树莓派(IDC2.54-LI-2x20P)
+Add component (AddParameter): Name = "BOM名称"; Value = "20*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "优秀评价可免费更新"; Value = "联系淘宝ID：黄晶宝石，获取更新版封装库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "卖家免费技术支持，联系售后"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=超声波1(XH2.54-WI-4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "优秀评价可免费更新"; Value = "联系淘宝ID：黄晶宝石，获取更新版封装库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "卖家免费技术支持，联系售后"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=超声波2(XH2.54-WI-4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "优秀评价可免费更新"; Value = "联系淘宝ID：黄晶宝石，获取更新版封装库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "卖家免费技术支持，联系售后"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=超声波3(XH2.54-WI-4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "优秀评价可免费更新"; Value = "联系淘宝ID：黄晶宝石，获取更新版封装库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "卖家免费技术支持，联系售后"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=超声波4(XH2.54-WI-4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "优秀评价可免费更新"; Value = "联系淘宝ID：黄晶宝石，获取更新版封装库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "卖家免费技术支持，联系售后"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Net: Name=NetMPU6050-1_3V3
+Added Net: Name=NetMPU6050-1_GND
+Added Net: Name=NetMPU6050-1_SCL
+Added Net: Name=NetMPU6050-1_SDA
+Added Net: Name=Net树莓派_5V
+Added Net: Name=Net树莓派_G.12
+Added Net: Name=Net树莓派_G.13
+Added Class: Name=树莓派用
+Added Room: Name=树莓派用
